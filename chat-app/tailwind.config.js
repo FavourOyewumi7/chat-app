@@ -18,7 +18,9 @@ module.exports = {
         'secondary':'#7a7f9a',
         'white': '#fff',
         'black':'#495057',
-        'icon':'#878a92'
+        'icon':'#878a92',
+        'backg':'#f7f7ff',
+        'border':'#f0eff5'
         
       },
   },

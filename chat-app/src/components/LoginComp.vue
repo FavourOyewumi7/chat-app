@@ -32,7 +32,7 @@
                             <input type="password" name="" id="" class="border border-light input w-full pl-3 rounded-r-lg" placeholder="*****">
                         </div>
                     </div>
-                    <router-link to="/chat">
+                    <router-link to="/chats">
                         <button class="bg-blue text-white w-full rounded-lg py-3 my-3">
                             Sign In
                         </button>

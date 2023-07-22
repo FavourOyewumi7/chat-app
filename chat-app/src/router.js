@@ -9,7 +9,7 @@ const routes = [
       component: LoginPage 
     },
     {
-      path: '/chat',
+      path: '/chats',
       component: MainChat,
       children:[
         {
